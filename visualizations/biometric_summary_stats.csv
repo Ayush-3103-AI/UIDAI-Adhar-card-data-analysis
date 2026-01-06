@@ -1,0 +1,13 @@
+Metric,Value
+Total Records,"1,861,108"
+Total Columns,6
+Numeric Columns,3
+pincode - Mean,"521,761.17"
+pincode - Median,"522,401.00"
+pincode - Std Dev,"198,162.68"
+bio_age_5_17 - Mean,18.39
+bio_age_5_17 - Median,3.00
+bio_age_5_17 - Std Dev,83.70
+bio_age_17_ - Mean,19.09
+bio_age_17_ - Median,4.00
+bio_age_17_ - Std Dev,88.07
